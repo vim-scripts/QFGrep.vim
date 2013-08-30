@@ -15,6 +15,7 @@ projectHome & screencast: https://github.com/sk1418/QFGrep
 - fill Quickfix window with some entries (grep, vimgrep, ack or make),move curosr to quickfix buffer
 - `<Leader>g` input pattern to do further filtering
 - `<Leader>r` restore the Quickfix with original entries
+- `<Leader>v` input pattern to do further inverted filtering (like grep -v)
 - check the GIF animation on project homepage https://github.com/sk1418/QFGrep
 
 ##Customization
@@ -22,4 +23,3 @@ projectHome & screencast: https://github.com/sk1418/QFGrep
 - mapping customization
 - message color-highligting customization
 - `:h QFGrep` to check details
-
